@@ -29,6 +29,6 @@ DevOps = Devlopment Operations
 
     4. Everyday one hr support to clarify your questions, doubts, instalaltions, issues etc.
 
-    5. 2 weeks(10 working days) free Job support (This is only for the candidates who completed training here).
+    5. 2 weeks(10 working days) free Job support (This is applicable for the candidates who completed training here).
     
     
