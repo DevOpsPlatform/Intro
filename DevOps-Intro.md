@@ -1,5 +1,7 @@
 
-## What is DevOps???
+## ~~What is DevOps???~~ Why DevOps? : 
+
+Automate the process, reduce the manual activities.
 
 DevOps = Devlopment Operations
 
