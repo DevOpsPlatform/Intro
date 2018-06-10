@@ -31,4 +31,6 @@ DevOps = Devlopment Operations
 
     5. 2 weeks(10 working days) free Job support (This is applicable for the candidates who completed training here).
     
+    6. Contact: +91 94904 41835 , onlinedevopstraining@gmail.com
+    
     
