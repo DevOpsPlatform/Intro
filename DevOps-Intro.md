@@ -8,25 +8,17 @@ DevOps = Devlopment Operations
 	Analysis/planning/requirement
 	Code management
 	Build 
-	Deploy to lower env
+	Deploy (in lower env)
 	test
 	release
 	
 ### Activities in Operations: AWS, Ansible, Docker, splunk, nagios etc (other similar tools)
 	
 	Environment setup
-	Deploy to higher environments
-	Testing in different env - performance test, load test, auto scaling etc
+	Deploy (in higher env)
+	Testing in various higher env - system test, performance test, load test, auto scaling etc
 	Monitoring
 	
-	
-	Phase-1 --> Phase2
-	
-	Phase-1 --> Phase-3 --> Phase-4 --> Phase-5
-	
-	Phase-1 --> Phase-6.1
-
-
 ## We are planning our training(paid) on DevOps as below.
     
     1. Each tool introduction & main features.
