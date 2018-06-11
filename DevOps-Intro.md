@@ -21,6 +21,17 @@ DevOps = Devlopment Operations
 	Testing in various higher env - system test, performance test, load test, auto scaling etc
 	Monitoring
 	
+### DevOps for???
+
+	DevOps for JAVA (Platform: Windows/Linux)
+	DevOps for .net/C# (Platform: Windows)
+	DevOps for PHP.
+	DevOps for Python.
+	DevOps for Mainframes. (Platform: Linux)
+	
+	etc
+	
+	
 ## We are planning our training(paid) on DevOps as below.
     
     1. Each tool introduction & main features.
