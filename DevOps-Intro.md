@@ -27,7 +27,7 @@ DevOps = Devlopment Operations
 	DevOps for .net/C# (Platform: Windows)
 	DevOps for PHP. (Platform: Linux)
 	DevOps for Python. (Platform: Linux)
-	DevOps for Mainframes. (Platform: Linux)
+	DevOps for Mainframes. (Platform: Linux) : https://compuware.com/10-cross-platform-mainframe-devops-tools/
 	DevOps for Salesforce. (Platform: Salesforce cloud)
 	
 	etc	
