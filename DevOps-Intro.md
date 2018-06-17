@@ -42,8 +42,6 @@ DevOps = Devlopment Operations
 
     4. Everyday one hr support to clarify your questions, doubts, instalaltions, issues etc.
 
-    5. 2 weeks(10 working days) free Job support (This is applicable for the candidates who completed training here).
-    
-    6. Contact: +91 94904 41835 , onlinedevopstraining@gmail.com
+    5. Contact: +91 9032440040, +91 94904 41835 , onlinedevopstraining@gmail.com
     
     
