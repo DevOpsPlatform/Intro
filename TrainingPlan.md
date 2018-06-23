@@ -29,7 +29,7 @@
 
 #### Training on DevOps Setup:
 
-###### Phases wise session only for candidates who completed trainng. 
+###### We are conducting Phases wise sessions. 
 
 ###### This will be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps.
 	    
@@ -44,6 +44,8 @@
 ###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
 
 ##### For Phase-1, we are charging Rs. 2000/-
+
+##### Duration 2 weeks. We will start from tomorrow morning 7 a.m. i.e., 24-06-2018 IST.
 
 
 #### Regular Training: We have not decided yet.
