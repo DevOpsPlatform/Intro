@@ -7,25 +7,17 @@
 	Demo:
 	https://drive.google.com/file/d/1oeYgW-RtmAp5rpnnfDcRdSToLj9_qLhQ/view?usp=sharing
 
-	Maven Day-1:
+	Maven-1:
 	https://drive.google.com/file/d/1swpc8Vmm05WX-mtgTN2wXuZzncLtsgEC/view?usp=sharing
 
-	Maven Day-2: 
-	https://drive.google.com/file/d/1Ospyiwq-ZZcoD2eEVo087empVQZax11e/view?usp=sharing
-
-	GitHub Day-1:
+	GitHub-1:
 	https://drive.google.com/file/d/1B8eAZ_TVu0QnLVWp0HvPOewTlpZ-HuFd/view?usp=sharing
 
-	GitHub Day-2: 
-	https://drive.google.com/file/d/17XSgsAsV5AYnUsK6rlTB3z1OcqrJQOUp/view?usp=sharing
-
-	Jenkins Day-1:
+	Jenkins-1:
 	https://drive.google.com/file/d/1QeN4fBAzuKsbfZxQZDu4dAi8XD_QiTpY/view?usp=sharing
 
-	Jenkins Day-2:
-	https://drive.google.com/file/d/1_Z1ZCN7bhQifT9UJlill7LJeWIfGCUBf/view?usp=sharing
-	
 	Sample Phasaes videos:
+	
 	Phase-1.1:
 	https://drive.google.com/file/d/14bt1Xt2sMbM4o4c3ODLzyrHP2t4pI3No/view?usp=sharing
 
