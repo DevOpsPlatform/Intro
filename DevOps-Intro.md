@@ -36,9 +36,6 @@ DevOps = Devlopment Operations
 
 #### Training on DevOps Setup:
 
-    1. 
-
-#### Regular Training:
 1. Phases wise session only for candidates who completed trainng. Each phase cost Rs.1000/-.
 
     1.1. Repeating again, this will be useful to only to the candidates who completed trainng on DevOps, others may not understand.
@@ -51,14 +48,8 @@ DevOps = Devlopment Operations
 
       1.5. Please watch the videos and take a decision.
 
-2. For regular trainng, new batch will start from July 1st with 12k payment. (First installment 8k).
-
-    2.1. Each tool intro and main features.
-    
-    2.2. Phases implementation with tools.
-    
-    2.3. Everyday 1 hr support only what we are covering in trainng sessions.
+#### Regular Training: We have not decided yet.
 
 
-Contact: +91 9032440040, +91 94904 41835 , onlinedevopstraining@gmail.com
+Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
     
