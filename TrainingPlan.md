@@ -33,7 +33,7 @@
 
 ###### This will be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps.
 	    
-###### Who wants to switch to DevOps, you can try this for one week whther its suitable for you or not.
+###### Who wants to switch to DevOps, you can try this for one week whether its suitable for you or not (I believe everyone can suitable to DevOps).
 
 ###### Once batch for 7a.m. to 8a.m. IST
 
@@ -43,7 +43,7 @@
 
 ###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
 
-##### For Phase-1, we are charging Rs. 2000/-
+##### For Phase-1, we are charging Rs. 2000/-. (We have not decided the cost for other phases).
 
 ##### Duration 2 weeks. We will start from tomorrow morning 7 a.m. i.e., 24-06-2018 IST.
 
@@ -51,4 +51,10 @@
 #### Regular Training: We have not decided yet.
 
 # Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
+
+
+# Please share these videos with your friends if you like our training plan.
+
+
+
     
