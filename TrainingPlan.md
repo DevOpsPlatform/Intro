@@ -30,7 +30,7 @@
 
 ## We are planning our training(paid) on DevOps as below.
 
-#### Training on DevOps Setup:
+## Training on DevOps Setup:
 
 ###### We are conducting Phases wise sessions. 
 
@@ -55,7 +55,7 @@
 ##### We will share the meeting URL to the paid members.
 
 
-#### Regular Training: We have not decided yet.
+## Regular Training: We have not decided yet.
 
 # Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
 
