@@ -33,15 +33,32 @@ DevOps = Devlopment Operations
 	etc	
 	
 ## We are planning our training(paid) on DevOps as below.
-    
-    1. Each tool introduction & main features.
-    
-    2. Selected Tools installation & integration between the tools.
-    
-    3. DevOps basic level setup (Phase by Phase implementation) with HIGH level real-time examples. (This practice will give you more ideas, increase your confidence level while you supposed to work with any other DevOps tool. Also, this will help you to understand how DevOps automation process can be setup).
 
-    4. Everyday one hr support to clarify your questions, doubts, instalaltions, issues etc.
+#### Training on DevOps Setup:
 
-    5. Contact: +91 9032440040, +91 94904 41835 , onlinedevopstraining@gmail.com
+    1. 
+
+#### Regular Training:
+1. Phases wise session only for candidates who completed trainng. Each phase cost Rs.1000/-.
+
+    1.1. Repeating again, this will be useful to only to the candidates who completed trainng on DevOps, others may not understand.
+
+      1.2. Also only guidence on phases docs, the way how we done with Phase-1.1., Phase-1.2.
+
+      1.3. Will share the real-time examples.
+ 
+      1.4. If you need additional assistance to clarify the issues, Q's while phases implementation, then total will be Rs.1500/-
+
+      1.5. Please watch the videos and take a decision.
+
+2. For regular trainng, new batch will start from July 1st with 12k payment. (First installment 8k).
+
+    2.1. Each tool intro and main features.
     
+    2.2. Phases implementation with tools.
+    
+    2.3. Everyday 1 hr support only what we are covering in trainng sessions.
+
+
+Contact: +91 9032440040, +91 94904 41835 , onlinedevopstraining@gmail.com
     
