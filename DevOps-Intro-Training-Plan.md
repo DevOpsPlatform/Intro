@@ -62,20 +62,21 @@ DevOps = Devlopment Operations
 
 #### Training on DevOps Setup:
 
-1. Phases wise session only for candidates who completed trainng. Each phase cost Rs.1000/-.
+###### Phases wise session only for candidates who completed trainng. 
 
-    1.1. Repeating again, this will be useful to only to the candidates who completed trainng on DevOps, others may not understand.
+###### This will be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps.
+	    
+###### Who wants to switch to DevOps, you can try this for one week whther its suitable for you or not.
 
-      1.2. Also only guidence on phases docs, the way how we done with Phase-1.1., Phase-1.2.
+###### Once batch for 7a.m. to 8a.m.
 
-      1.3. Will share the real-time examples.
- 
-      1.4. If you need additional assistance to clarify the issues, Q's while phases implementation, then total will be Rs.1500/-
+###### One batch for evening 9p.m. to 10p.m.
 
-      1.5. Please watch the videos and take a decision.
+###### We will share the real-time examples related to Phase-1.
+
+###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkinms, Tomcat).
 
 #### Regular Training: We have not decided yet.
-
 
 Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
     
