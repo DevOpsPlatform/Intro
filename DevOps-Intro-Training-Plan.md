@@ -31,7 +31,33 @@ DevOps = Devlopment Operations
 	DevOps for Salesforce. (Platform: Salesforce cloud)
 	
 	etc	
-	
+
+### Demo Videos:
+
+
+	Please share these videos with your friends if you like our training plan & the way we are teaching. Soon we will start a new batch.
+
+	Demo:
+	https://drive.google.com/file/d/1oeYgW-RtmAp5rpnnfDcRdSToLj9_qLhQ/view?usp=sharing
+
+	Maven Day-1:
+	https://drive.google.com/file/d/1swpc8Vmm05WX-mtgTN2wXuZzncLtsgEC/view?usp=sharing
+
+	Maven Day-2: 
+	https://drive.google.com/file/d/1Ospyiwq-ZZcoD2eEVo087empVQZax11e/view?usp=sharing
+
+	GitHub Day-1:
+	https://drive.google.com/file/d/1B8eAZ_TVu0QnLVWp0HvPOewTlpZ-HuFd/view?usp=sharing
+
+	GitHub Day-2: 
+	https://drive.google.com/file/d/17XSgsAsV5AYnUsK6rlTB3z1OcqrJQOUp/view?usp=sharing
+
+	Jenkins Day-1:
+	https://drive.google.com/file/d/1QeN4fBAzuKsbfZxQZDu4dAi8XD_QiTpY/view?usp=sharing
+
+	Jenkins Day-2:
+	https://drive.google.com/file/d/1_Z1ZCN7bhQifT9UJlill7LJeWIfGCUBf/view?usp=sharing
+
 ## We are planning our training(paid) on DevOps as below.
 
 #### Training on DevOps Setup:
