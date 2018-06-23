@@ -43,6 +43,8 @@
 
 ###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
 
+###### We will share the interview questions for each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
+
 ##### For Phase-1, we are charging Rs. 2000/-. (We have not decided the cost for other phases).
 
 ##### Duration 2 weeks. We will start from tomorrow morning 7 a.m. i.e., 24-06-2018 IST.
