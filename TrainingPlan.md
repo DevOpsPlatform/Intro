@@ -35,13 +35,16 @@
 	    
 ###### Who wants to switch to DevOps, you can try this for one week whther its suitable for you or not.
 
-###### Once batch for 7a.m. to 8a.m.
+###### Once batch for 7a.m. to 8a.m. IST
 
-###### One batch for evening 9p.m. to 10p.m.
+###### One batch for evening 9p.m. to 10p.m. IST.
 
 ###### We will share the real-time examples related to Phase-1.
 
-###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkinms, Tomcat).
+###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
+
+##### For Phase-1, we are charging Rs. 2000/-
+
 
 #### Regular Training: We have not decided yet.
 
