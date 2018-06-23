@@ -42,7 +42,7 @@
 
 ###### One batch for evening 9p.m. to 10p.m. IST.
 
-###### We will share the real-time examples related to Phase-1.
+###### We will share the LOT of real-time examples related to Phase-1.
 
 ###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
 
@@ -50,7 +50,9 @@
 
 ##### For Phase-1, we are charging Rs. 2000/-. (We have not decided the cost for other phases).
 
-##### Duration 2 weeks. We will start from tomorrow morning 7 a.m. i.e., 24-06-2018 IST.
+##### Duration 2 weeks. We will start from monday morning 7 a.m. i.e., 25-06-2018 IST.
+
+##### We will share the meeting URL to the paid members.
 
 
 #### Regular Training: We have not decided yet.
