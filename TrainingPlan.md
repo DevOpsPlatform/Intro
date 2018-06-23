@@ -24,6 +24,17 @@
 
 	Jenkins Day-2:
 	https://drive.google.com/file/d/1_Z1ZCN7bhQifT9UJlill7LJeWIfGCUBf/view?usp=sharing
+	
+	Sample Phasaes videos:
+	Phase-1.1:
+	https://drive.google.com/file/d/14bt1Xt2sMbM4o4c3ODLzyrHP2t4pI3No/view?usp=sharing
+
+	Phase-1.2-Video-1:
+	https://drive.google.com/file/d/1lyIWqIJXxomkIDX3ef2QxFoKQjBBRYGH/view?usp=sharing
+
+	Phase-1.2-Video-2:
+	https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=sharing
+
 
 ## We are planning our training(paid) on DevOps as below.
 
