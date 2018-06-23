@@ -16,8 +16,7 @@
 	Jenkins-1:
 	https://drive.google.com/file/d/1QeN4fBAzuKsbfZxQZDu4dAi8XD_QiTpY/view?usp=sharing
 
-	Sample Phasaes videos:
-	
+	Sample Phasaes videos:	
 	Phase-1.1:
 	https://drive.google.com/file/d/14bt1Xt2sMbM4o4c3ODLzyrHP2t4pI3No/view?usp=sharing
 
