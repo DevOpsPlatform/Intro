@@ -27,7 +27,7 @@ Build & Release - SCM - DevOps Engineer Activies with Phase-1: Jenkins, Git, Mav
 
 13. Responsibilities of DevOps team with the tool Jenkins.
 
-14. Responsibilities of DevOps team with the tool Tomcat.
+14. Responsibilities of DevOps team with the tool Nexus.
 
 15. Responsibilities of DevOps team with the tool Tomcat.
 
