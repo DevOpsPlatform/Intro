@@ -13,20 +13,22 @@ Build & Release - SCM - DevOps Engineer Activies with Phase-1: Jenkins, Git, Mav
 
 6. Tomcat Intro & main features.
 
-7. Phase-1.1
+7. Linux Intro & important commands.
 
-8. Phase-1.2
+8. Phase-1.1
 
-9. Phase-1.3
+9. Phase-1.2
 
-10. Responsibilities of DevOps team with the tool Maven.
+10. Phase-1.3
 
-11. Responsibilities of DevOps team with the tool GitHub.
+11. Responsibilities of DevOps team with the tool Maven.
 
-12. Responsibilities of DevOps team with the tool Jenkins.
+12. Responsibilities of DevOps team with the tool GitHub.
 
-13. Responsibilities of DevOps team with the tool Tomcat.
+13. Responsibilities of DevOps team with the tool Jenkins.
 
 14. Responsibilities of DevOps team with the tool Tomcat.
 
-15. Phase-1-Examples. (CI/CD piepline with BlueOcean plugin, Maven release, Jenkins pipeline script for CI/CD etc)
+15. Responsibilities of DevOps team with the tool Tomcat.
+
+16. Phase-1-Examples. (CI/CD piepline with BlueOcean plugin, Maven release, Jenkins pipeline script for CI/CD etc)
