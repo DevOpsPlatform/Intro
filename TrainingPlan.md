@@ -51,7 +51,7 @@
 
 ##### We will share the meeting URL to the paid members.
 
-###### This will also be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps.
+###### This will also be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps(Conact us, you have a special offer).
 
 ## Regular Training: We have not decided yet.
 
