@@ -33,8 +33,6 @@
 
 ###### We are conducting Phases wise sessions. 
 
-###### This will be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps.
-	    
 ###### Who wants to switch to DevOps, you can try this for one week whether its suitable for you or not (I believe everyone can suitable to DevOps).
 
 ###### Once batch for 7a.m. to 8a.m. IST
@@ -49,12 +47,14 @@
 
 ##### For Phase-1, we are charging Rs. 2000/-. (We have not decided the cost for other phases).
 
-##### Duration 3 weeks. We will start from monday morning 7 a.m. i.e., 27-06-2018 IST.
+##### Duration 3 weeks. We are going to start from 27th, June, 2018 morning 7 a.m. i.e., 27-06-2018 IST.
 
 ##### We will share the meeting URL to the paid members.
 
+###### This will also be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps.
 
 ## Regular Training: We have not decided yet.
+
 
 # Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
 
