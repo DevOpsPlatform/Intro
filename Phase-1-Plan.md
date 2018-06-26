@@ -1,13 +1,15 @@
 
+Build & Release - SCM - DevOps Engineer Activies with Phase-1: Jenkins, Git, Maven, Nexus, Tomcat.
+
 1. DevOps Intro.
 
-2. Maven intro & main features
+2. Maven intro & main features.
 
-3. GitHub intro & main features
+3. GitHub intro & main features.
 
-4. Jenkins intro & main features
+4. Jenkins intro & main features.
 
-5. Tomcat Intro & main features
+5. Tomcat and Nexus Intro & main features.
 
 6. Phase-1.1
 
