@@ -43,13 +43,13 @@
 
 ###### We will share the LOT of real-time examples related to Phase-1.
 
-###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
+###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., GitGub, Maven, Jenkins, Nexus, Tomcat).
 
-###### We will share the interview questions for each tool which we mentioned in the Phase-1 (i.e., Git, Maven, Jenkins, Tomcat).
+###### We will share the interview questions for each tool which we mentioned in the Phase-1 (i.e., GitGub, Maven, Jenkins, Nexus, Tomcat).
 
 ##### For Phase-1, we are charging Rs. 2000/-. (We have not decided the cost for other phases).
 
-##### Duration 2 weeks. We will start from monday morning 7 a.m. i.e., 25-06-2018 IST.
+##### Duration 3 weeks. We will start from monday morning 7 a.m. i.e., 27-06-2018 IST.
 
 ##### We will share the meeting URL to the paid members.
 
