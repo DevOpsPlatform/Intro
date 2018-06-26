@@ -45,7 +45,7 @@
 
 ###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., GitGub, Maven, Jenkins, Nexus, Tomcat).
 
-###### We will share the interview questions for each tool which we mentioned in the Phase-1 (i.e., GitGub, Maven, Jenkins, Nexus, Tomcat).
+###### We will share(not discussing) the interview questions for each tool which we mentioned in the Phase-1 (i.e., GitGub, Maven, Jenkins, Nexus, Tomcat).
 
 ##### For Phase-1, we are charging Rs. 2000/-. (We have not decided the cost for other phases).
 
