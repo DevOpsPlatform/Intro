@@ -27,33 +27,41 @@
 	https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=sharing
 
 
-## We are planning our training(paid) on DevOps as below.
+## We are going to start training(paid) on DevOps from 6th Aug 2018 as per below plan.
+
+## Timings:
+
+###### Monday to Saturday: 7a.m. to 8a.m. IST
+
+## Tools List
+
+	Platform: Linux
+	Scripting: ShellScript, Jenkins Pipeline Script, Groovy Script for Jenkins.
+	Build Tool: Maven
+	Version Contrtol/Code Repository tool: GitHub
+	CI/CD: Jenkins
+	Code Quality tool: SonarQube
+	Repository Manager: Nexus
+	Configuration Management: Ansible
+	Containerization: Docker (with Kubernetes)
+	Issue/Project Management Tool: JIRA
+	Cloud: AWS
+
+## Training on DevOps Tools:
+
+###### The main features of each tool.
+
+###### Interview Questions.
 
 ## Training on DevOps Setup:
 
-###### We are conducting Phases wise sessions. 
+###### Phase by Phase DevOps Setup with all the tools. Click on below URL to see the complete plan.
 
-###### Who wants to switch to DevOps, you can try this for one week whether its suitable for you or not (I believe everyone can suitable to DevOps).
+https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlBPq8/edit?usp=sharing
 
-###### Once batch for 7a.m. to 8a.m. IST
+###### Tools installation & Integration between the tools. 
 
-###### One batch for evening 9p.m. to 10p.m. IST.
-
-###### We will share the LOT of real-time examples related to Phase-1.
-
-###### We will discuss the roles, resposibilities of each tool which we mentioned in the Phase-1 (i.e., GitGub, Maven, Jenkins, Nexus, Tomcat).
-
-###### We will share(not discussing) the interview questions for each tool which we mentioned in the Phase-1 (i.e., GitGub, Maven, Jenkins, Nexus, Tomcat).
-
-##### For Phase-1, we are charging Rs. 2000/-. (We have not decided the cost for other phases).
-
-##### Duration 3 weeks. We are going to start from 27th, June, 2018 morning 7 a.m. i.e., 27-06-2018 IST.
-
-##### We will share the meeting URL to the paid members.
-
-###### This will also be useful to the candidates who completed trainng on DevOps & Job seekers on DevOps(Conact us, you have a special offer).
-
-## Regular Training: We have not decided yet.
+###### Basic & realtiome examples to setup CI/CD.
 
 
 # Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
