@@ -55,11 +55,25 @@
 
 ## Training on DevOps Setup:
 
-#### Phase by Phase DevOps Setup with all the tools. Click on below URL to see the complete plan.
+#### Phase by Phase DevOps Setup with all the below tools. Click on below URL to see the complete plan.
 
 https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlBPq8/edit?usp=sharing
 
-#### Tools installation & Integration between the tools. 
+	Platform: Linux
+	Scripting: ShellScript, Jenkins Pipeline Script, Groovy Script for Jenkins.
+	Build Tool: Maven
+	Version Contrtol/Code Repository tool: GitHub/Bitbucket
+	CI/CD: Jenkins
+	Code Quality tool: SonarQube
+	Repository Manager: Nexus
+	Configuration Management: Ansible
+	Containerization: Docker (with Kubernetes)
+	Issue/Project Management Tool: JIRA
+	Cloud: AWS
+	Test Automation: Selenium
+	User/Group Manager: LDAP	
+
+#### Tools installation on Linux machines & Integration between the tools. 
 
 #### Basic & realtiome examples to setup CI/CD.
 
