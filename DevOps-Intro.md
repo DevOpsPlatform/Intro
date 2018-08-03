@@ -5,7 +5,7 @@ Automate the process, reduce the manual activities.
 
 DevOps = Devlopment Operations
 
-### Activities in Devlopment: Maven, jenkins, git, etc
+### Activities in Devlopment: 
 
 	Analysis/planning/requirement
 	Code management
@@ -14,12 +14,16 @@ DevOps = Devlopment Operations
 	test
 	release
 	
-### Activities in Operations: AWS, Ansible, Docker, splunk, nagios etc (other similar tools)
+	Supporting Tools: JIRA/Confluence, Git, Maven etc (other similar tools)
+	
+### Activities in Operations: 
 	
 	Environment setup
 	Deploy (in higher env)
 	Testing in various higher env - system test, performance test, load test, auto scaling etc
 	Monitoring
+	
+	Supporting Tools: AWS, Ansible, Docker, splunk, nagios etc (other similar tools)
 	
 ### DevOps for???
 
