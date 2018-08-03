@@ -49,13 +49,13 @@
 
 ## Training on DevOps Tools:
 
-#### The main features of each tool.
+#### 1. The main features of each tool.
 
-#### Interview Questions.
+#### 2. Interview Questions.
 
 ## Training on DevOps Setup:
 
-#### Phase by Phase DevOps Setup with all the below tools. Click on below URL to see the complete plan.
+#### 1. Phase by Phase DevOps Setup with all the below tools. Click on below URL to see the complete plan.
 
 https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlBPq8/edit?usp=sharing
 
@@ -73,15 +73,15 @@ https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlB
 	Test Automation: Selenium
 	User/Group Manager: LDAP	
 
-#### Tools installation on Linux machines & Integration between the tools. 
+#### 2. Tools installation on Linux machines & Integration between the tools. 
 
-#### Basic & realtiome examples to setup CI/CD.
+#### 3. Basic & real time examples to setup CI/CD.
 
 
 # Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
 
 
-# Please share these videos with your friends if you like our training plan.
+# Please share this with your friends if you like our training plan.
 
 
 
