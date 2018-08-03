@@ -83,6 +83,9 @@ https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlB
 
 # Please share this with your friends if you like our training plan.
 
+![image](https://user-images.githubusercontent.com/24622526/43326308-1ed69924-91d6-11e8-824f-fa85e1af6042.png)
+
+
 
 
     
