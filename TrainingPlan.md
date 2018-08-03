@@ -31,7 +31,7 @@
 
 ## Timings:
 
-###### Monday to Saturday: 7a.m. to 8a.m. IST
+#### Monday to Saturday: 7a.m. to 8a.m. IST
 
 ## Tools List
 
@@ -49,19 +49,19 @@
 
 ## Training on DevOps Tools:
 
-###### The main features of each tool.
+#### The main features of each tool.
 
-###### Interview Questions.
+#### Interview Questions.
 
 ## Training on DevOps Setup:
 
-###### Phase by Phase DevOps Setup with all the tools. Click on below URL to see the complete plan.
+#### Phase by Phase DevOps Setup with all the tools. Click on below URL to see the complete plan.
 
 https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlBPq8/edit?usp=sharing
 
-###### Tools installation & Integration between the tools. 
+#### Tools installation & Integration between the tools. 
 
-###### Basic & realtiome examples to setup CI/CD.
+#### Basic & realtiome examples to setup CI/CD.
 
 
 # Contact: +91 9032440040, +91 9966960045 , onlinedevopstraining@gmail.com
