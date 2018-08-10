@@ -1,6 +1,7 @@
 
-### Demo Videos:
+# We are going to start training(paid) on DevOps from 13th Aug 2018 as per below plan.
 
+### Demo Videos:
 
 	Please share these videos with your friends if you like our training plan & the way we are teaching. Soon we will start a new batch.
 
@@ -26,8 +27,6 @@
 	Phase-1.2-Video-2:
 	https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=sharing
 
-
-## We are going to start training(paid) on DevOps from 6th Aug 2018 as per below plan.
 
 ## Timings:
 
