@@ -41,6 +41,7 @@
 	CI/CD: Jenkins
 	Code Quality tool: SonarQube
 	Repository Manager: Nexus
+	Application Server: Tomcat
 	Configuration Management: Ansible
 	Containerization: Docker (with Kubernetes)
 	Issue/Project Management Tool: JIRA
@@ -65,6 +66,7 @@ https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlB
 	CI/CD: Jenkins
 	Code Quality tool: SonarQube
 	Repository Manager: Nexus
+	Application Server: Tomcat
 	Configuration Management: Ansible
 	Containerization: Docker (with Kubernetes)
 	Issue/Project Management Tool: JIRA
