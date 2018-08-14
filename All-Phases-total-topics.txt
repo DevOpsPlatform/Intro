@@ -1,0 +1,189 @@
+
+Phase-1: Build & Deployment
+---------------------------
+
+What we are discussing & learning from Phase-1: Build & deploy your application using the tools - Linux, Maven, Jenkins, GitHub, Tomcat, Nexus, AWS(EC2)
+
+A. Tools installation & integration between the tools.
+B. CI - CD Setup using 
+	B.1. upstream/downstream concept
+	B.2. Jenkins pipeline script
+	B.3. and blue ocean plugin.
+C. Practically & conceptually good on Build & deployment process.
+
+Maven: 
+
+	1. Goals. 
+		clean test - for Selenium automation test jobs.
+		clean verify, clean install - for CI jobs, auto triggered jobs for every code change(check-in).
+		clean deploy - Build & deploy the package to nexus repo.
+	2. POM file configuration with nexus repo details, i.e., <repositories> & <distributionManagement> section in pom.xml
+	3. POM file configuration with nexus repo details, i.e., <repository> & <pluginRepository> sections in pom.xml
+	4. Maven settings.xml file configuration with nexus serevr details. i.e., <server> tag under <servers> in settings.xml file. either in global settings.xml (Maven home) or local/user level settings.xml(.m2 local repo).
+	5. Properties i.e., <version>${releaseVersion}</version> maven reading the parameter which we are passing the parameter value from jenkins job.
+	6. Maven Release process.
+	6. Maven setup.
+
+GitHub:
+
+	1. Repositiry URL.
+	2. Code checkout from branch(using jenkins).
+	3. Jenkins with GitHub integration(for auto trigger the jenkins job for every change in GitHub repo).
+	
+Jenkins:
+
+	1. Jenkins Setup.
+	2. Manage Jenkins.
+		2.1. Global Tool configuration (Jenkins integration with the tools maven, java, git).
+		2.2. Configure Global Security (To enable JNLP).
+		2.3. Manage Node (to setup new node with Jenkins).
+		2.4. Manage Plugins (to install new plugins)
+				2.4.1. Build pipeline (view the upstream/downstream jobs in a pipeline)
+				2.4.2. Maven Integration plugin.
+				2.4.3. Rebuild.
+				2.4.4. Mask passwords.
+				2.4.5. Blue Ocean.
+	3. Creating job - Free-style project, Maven project, Pipeline, Multibranch Pipeline.
+	4. Job Configuration. 
+		4.1. "General" section - Job Description, JDK version, slave selection, Parameters creation, disable job, discard old build etc.
+		4.2. Source Code Management - Git
+		4.3. Pre Steps in "maven project".
+		4.4. Build section - maven goals in "maven project".
+		4.4. Build section - Execute Shell script in free style.
+		4.5. Post Steps in "maven project".
+		4.6. Email notifications(just concept).
+		4.7. Build Triggers (Build periodically, Poll SCM).
+	5. Options of each job - Build the job, Delete the job, Disable the job, workspace ect.
+	6. Jenkins node/slave configuration with Linux & windows systems.
+	7. CI-CD pipeline setup.
+	8. Jenkins home directory/folder structure - jobs, workspace.
+
+Tomcat:
+	
+	1. Tomcat Setup.
+	2. Jenkins Installation/deployment on Tomcat.
+	3. Tomcat files/folder structure.
+		3.1. bin folder - to startup & shutdown the tomcat server.
+		3.2. conf folder 
+				- tomcat-users.xml - to create users to access the application which are deployed on tomcat serevr.
+				- server.xml - change the port number.
+		3.3. logs folder - to check the logs of tomcat server running status on catalina.out file.
+		3.4. webapps folder - to deploy web applications i.e., java .war packages.
+		3.5. lib folder - supporting jars/library files.
+	4. How to start/stop/reload/undeploy/ExpireSessions the Applications from tomcat "Manager Webapp" console.
+
+AWS:
+	1. How to launch an instance(RedHat Linux & Windows) in EC2 service.
+
+	
+Phase-2: Build & Deployment
+---------------------------
+
+What we are discussing & learning from Phase-2: Phase-1 (Linux, Maven, Jenkins, GitHub, Tomcat, Nexus, AWS(EC2)
++ Ansible & Docker.
+
+Ansible:
+
+	1. Ansible Installation.
+	2. Ansible ad-hoc commands.
+	3. Writing Playbooks.
+	4. Connect from one instance/machine to another machine using ansible.
+	5. Exampels with Jenkins + GitHub + maven + nexus + tomcat + ansible.
+
+Docker: 
+
+	1. Docker Engine Installation.
+	2. Writing Dockerfile.
+	3. Creating/building images from ocker files.
+	4. Creatng/Running docker containers from docker images.
+	5. Docker-hub.
+	6. Exampels with Jenkins + GitHub + maven + nexus + tomcat + docker.
+
+Phase-3: Code Quality & Issue/Project Management
+------------------------------------------------
+
+JIRA:
+
+	1. JIRA installation with database postgresql.
+	2. Creating projects in JIRA.
+	3. You will learn more about JIRA in Phase-4.
+	
+Sonar:
+
+	1. SonarQube installation with database postgresql.
+	2. Exampels with Jenkins + GitHub + maven + nexus + SonarQube.
+
+		2.1. Code quality check using sonar & checkstyle plugins.
+		2.2. Code coverage check uisng jacoco plugin.
+		2.3. Upload the report to sonar server & create a dashboard for your project (sonar automatically will take care).
+		
+		
+	
+Phase-4: Issue/Project Management & Code Management : Tacking the work.
+-----------------------------------------------------------------------
+
+JIRA:
+
+	1. JIRA installation with database postgresql.
+	2. Jenkins integration with JIRA.
+	3. JIRA integration with Bitbucket.
+	4. Creating projects in JIRA.
+	5. Creating issues (tasks/bugs) in JIRA.
+	6. Creating develop/feature/bugfix branches on Bitbucket from JIRA issue/ticket.
+	7. JIRA workflow.
+
+Bitbucket:
+	
+	1. Bitbucket installation.
+	2. Creating repo on Bitbucket.
+	3. Bitbucket integration with JIRA and JIRA integration with Bitbucket.
+	4. Bitbucket integration with Jenkins and Jenkins integration with Bitbucket.
+	5. Examples with Jenkins + Bitbucket + maven + nexus + Bitbucket.
+		
+		Workflow will be like this
+		
+			5.1. Create a task in JIRA and assign to development team.
+			5.2. Create a feature branch on bitbucket from JIRA issue.
+			5.3. Checkout the new feature branch.
+			5.4. Coding and push the changes to bitbucket feature branch.
+			5.5. Feedback(build result) from jenkins auto triggered build.
+			5.6. Create pull request if build is success.
+			5.7. Review and approve/decline the pull request.
+			5.8. Merge the changes from feature branch to master branch if review success.
+			5.9. Proceed with Jenkins build & deployment i.e., CI/CD pipeline(which you lerned from Phase-1 examples).
+			5.10. Run the your project/application.
+
+Phase-5: Automation testing.
+----------------------------
+
+Selenium:
+
+	1. Selenium Grid setup on one of the jenkins windows slave machine.
+	2. Writing Simple selenium script.
+	3. Run your selenium script on the windows Jenkins node/slave using Jenkins where it is installed on Linux server.
+	4. Jenkins + GitHub + maven + nexus + tomcat + Selenium.
+	
+		Workflow:
+		
+		Part-1:
+			4.1. Original source Code build & deploy on tomcat server.
+			4.2. Project/Application running on tomcat server, here we can find Application URL.
+			
+		Part-2:
+			4.3. Selenium Script refers the application URL.
+			4.4. Test your application using Selenium script on the browsers IE, chrome, firefox etc.
+
+
+Phase-6.1: User Management.
+-------------------------
+
+LDAP:
+
+	1. LDAP installtion.
+	2. Create User(s).
+	3. Create Group(s).
+	4. Integrate Jenkins with LDAP.
+	5. Jenkins roles & permissions setup.
+	6. Examples/exercises on Jenkins roles. 
+	
+
