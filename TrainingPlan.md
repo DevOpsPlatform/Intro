@@ -28,6 +28,8 @@
 	https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=sharing
 
 
+* For more videos, please refer: https://github.com/DevOpsBasicSetup/Phase-1-Discussions
+
 ## Timings:
 
 #### Monday to Saturday: 7a.m. to 8a.m. IST
