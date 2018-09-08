@@ -45,7 +45,7 @@
 	Repository Manager: Nexus
 	Application Server: Tomcat
 	Configuration Management: Ansible
-	Containerization: Docker (with Kubernetes)
+	Containerization: Docker
 	Issue/Project Management Tool: JIRA
 	Cloud: AWS
 
