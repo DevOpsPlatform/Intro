@@ -46,6 +46,7 @@
 	Application Server: Tomcat
 	Configuration Management: Ansible
 	Containerization: Docker
+	Container Management: Kubernetes
 	Issue/Project Management Tool: JIRA
 	Cloud: AWS
 
