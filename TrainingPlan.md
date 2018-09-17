@@ -6,7 +6,7 @@
 	Please share these videos with your friends if you like our training plan & the way we are teaching. Soon we will start a new batch.
 
 	Demo:
-	https://drive.google.com/file/d/18b1Eq_xa3-KmYOXOgwavwLoLVmpTOMPf/view?usp=sharing
+	https://drive.google.com/file/d/1-2Byd3cfPzqgfWn4Yhue3O0pkcNQoZtI/view?usp=sharing
 
 	Maven-1:
 	https://drive.google.com/file/d/1swpc8Vmm05WX-mtgTN2wXuZzncLtsgEC/view?usp=sharing
