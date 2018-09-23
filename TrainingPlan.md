@@ -1,5 +1,5 @@
 
-# We are going to start training(paid) on DevOps from 17th Sept 2018 as per below plan.
+# We are going to start training(paid) on DevOps from 24th Sept 2018 as per below plan.
 
 ### Demo Videos:
 
