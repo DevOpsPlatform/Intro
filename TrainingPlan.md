@@ -26,6 +26,12 @@
 
 	Phase-1.2-Video-2:
 	https://drive.google.com/file/d/1eNHpbnTQl62E8roW2ldPg_WAZr8juYzj/view?usp=sharing
+	
+	Ansible-1:
+	https://drive.google.com/file/d/1KS61kSKcv4jC4-vyWDPSjeYIrGVEsCZS/view?usp=sharing
+	
+	Docker-1:
+	https://drive.google.com/file/d/1DgB6BYFjUNOsu9kFPiTSEdBnDKAUxq-j/view?usp=sharing	
 
 
 * For more videos, please refer: https://github.com/DevOpsBasicSetup/Phase-1-Discussions
