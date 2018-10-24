@@ -1,9 +1,9 @@
 
-# We are going to start training(paid) on DevOps from 1st Oct 2018 as per below plan.
+# We are going to start training(paid) on DevOps from 26th of Nov 2018 as per below plan.
 
 ### Demo Videos:
 
-	Please share these videos with your friends if you like our training plan & the way we are teaching. Soon we will start a new batch.
+	Please share these videos with your friends if you like our training plan & the way we are teaching.
 
 	Demo:
 	https://drive.google.com/file/d/1-2Byd3cfPzqgfWn4Yhue3O0pkcNQoZtI/view?usp=sharing
