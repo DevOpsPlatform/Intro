@@ -1,5 +1,5 @@
 
-# We are going to start training on DevOps from 19th of Nov 2018 as per below plan.
+# Demo videos, Tools & training plan.
 
 ### Demo Videos:
 
