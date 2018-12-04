@@ -35,7 +35,7 @@
 
 ## Timings:
 
-#### Monday to Saturday: 7a.m. to 8a.m. IST
+#### Monday to Saturday: 9p.m. to 10p.m. IST
 
 ## Tools List
 
