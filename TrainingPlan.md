@@ -85,7 +85,7 @@ https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlB
 #### 3. Basic & real time examples to setup CI/CD.
 
 
-# Contact: +91 9966960045, +91 7378494638, onlinedevopstraining@gmail.com
+# Contact: +91 9966960045
 
 FB Group: https://www.facebook.com/groups/1814248882217534/
 
