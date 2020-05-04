@@ -1,10 +1,6 @@
-DevOps
+DevOps = development + operations
 
-development - operations
-
-DevOps
-
-development 
+#### development 
 	
 	IDE : Eclipse, Visual sturdio, intellij, etc
 
@@ -24,13 +20,14 @@ development
 		-building image -- docker, rkt, containerd etc
 		-deploy the image to pakcage/repositiory manager - nexus/JFrog artifactory
 
-operations
+#### operations
+
 	deployment 
 		using script - powershell, shell script, python, etc
 		automation - CM - ansible, cheff, puppet, octopus, etc
 		containers - docker, rkt, containerd etc
 		container orchestration - docker-swam, kubernetes, (openshit+k8s, helm charts + k8s, etc)
-		
+
 	servers for variours env to test our apps
 	
 	APP servers: IIS, kurl, Tomcat, weblogic, jboss, IBM WAS etc
