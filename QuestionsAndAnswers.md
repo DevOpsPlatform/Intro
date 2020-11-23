@@ -59,10 +59,10 @@ Above script also will NOT work. Therefore, minimum 'agent' and 'stages' section
           stages{
               stage('build'){
 
-                  println "Hello Build"
+                  println "Hello Build - outside steps"
 
                   steps{
-                      println "Hello Build"
+                      println "Hello Build - inside steps"
                   }
               }
           }
