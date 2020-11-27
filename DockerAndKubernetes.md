@@ -1,4 +1,4 @@
-We are conducting online sessions on Docker and Kubernetes. Please find the course details below.
+**We are conducting online sessions on Docker and Kubernetes. Please find the course details below.**
 
 # Docker Course
 
