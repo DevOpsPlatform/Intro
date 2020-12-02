@@ -1,5 +1,6 @@
 
 **Jenkins** Version: Jenkins 2.249.3
+
 **Pipeline** plugin version: 2.6
 
 *Jenkins Pipeline Script*:
@@ -47,7 +48,7 @@ also, try this.
             agent any
       }
       
-Above script also will NOT work. Therefore, minimum 'agent' and 'stages' section are required to satrt executing the pipeline script.
+Above script also will NOT work. Therefore, minimum 'agent' and 'stages' sections are required to satrt executing the pipeline script.
 
 
 *Example-2*:
@@ -68,4 +69,11 @@ Above script also will NOT work. Therefore, minimum 'agent' and 'stages' section
           }
       }
 
-*Output*: Will be posted soon
+*Output*: Thrwos error
+
+      org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+      WorkflowScript: 6: Unknown stage section "println". Starting with version 0.5, steps in a stage must be in a ‘steps’ block. @ line 6, column 15.
+                 stage('build'){
+                 ^
+                 
+                 
