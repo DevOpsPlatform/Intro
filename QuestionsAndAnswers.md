@@ -91,5 +91,56 @@ From, we can understand what is minimum required under the "stage" section. Beca
               }
           }
       }
+      
+*Example-4*: So far we have seen agent and stages section under pipeline. Here you can see new section "environment". What is the importance of "environment" section?
+
+     pipeline {
+      
+          agent any
+          
+          environment{
+              myVar = "V2DevOpsOnline"
+          }
+          
+          stages {
+              stage('Example') {
+                  steps {
+                        sh 'printenv'
+                  }
+            }
+          }
+      }
+
+*Example-5*: How many ways we can use this declarative - "sh"
+
+
+      pipeline {
+      
+          agent any
+          
+          environment{
+              myVar = "V2DevOpsOnline"
+          }
+          
+          stages {
+              stage('Example') {
+                  steps {
+                      echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL} - ${myVar} - ${env.myVar}"
+
+                      sh'echo Single quote Single line: Running ${BUILD_ID} on ${JENKINS_URL} - ${myVar} '
+
+                      sh"echo Double quote Single line:Running ${BUILD_ID} on ${JENKINS_URL} - ${myVar} - ${env.myVar} "
+
+                      sh'''
+                          echo Single quote Multi line: Running ${BUILD_ID} on ${JENKINS_URL} - ${myVar}
+                      '''
+
+                      sh"""
+                          echo Double quote Multi line: Running ${BUILD_ID} on ${JENKINS_URL} - ${myVar} - ${env.myVar} 
+                      """
+                  }
+              }
+          }
+      }
 
 
