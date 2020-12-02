@@ -1,3 +1,4 @@
+The Main aim of this page is to practice Jenkins Pipeline Script.
 
 **Jenkins** Version: Jenkins 2.249.3
 
@@ -76,4 +77,19 @@ Above script also will NOT work. Therefore, minimum 'agent' and 'stages' section
                  stage('build'){
                  ^
                  
-                 
+From, we can understand what is minimum required under the "stage" section. Because of under stage "steps" is not only the section we can define. There are many other sections we can define under "stage" section.
+
+*Example-3*: What it is going to print?
+
+      pipeline{
+          agent any
+          stages{
+              stage("Env example-1"){
+                  steps{
+                      sh 'printenv'
+                  }
+              }
+          }
+      }
+
+
