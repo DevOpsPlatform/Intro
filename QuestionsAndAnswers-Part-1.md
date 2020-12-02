@@ -111,7 +111,7 @@ From, we can understand what is minimum required under the "stage" section. Beca
           }
       }
 
-*Example-5*: How many ways we can use this declarative - "sh"
+*Example-5*: How many ways we can use this declarative directive - "sh"
 
 
       pipeline {
