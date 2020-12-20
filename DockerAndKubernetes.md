@@ -95,5 +95,13 @@
       Terraform with AWS
          Create Multiple resouces ec2, s3, iam , lb, asg
          Create networking resouces like vpc, subnet..etc
-         Create server less resouces like lamda, api Gateway
+         Create server less resouces like lambda, api Gateway
       Advance terraform Usages
+      
+ # Jenkins pipeline script
+   
+         1. declarative 
+         2. scripted
+         3. shared libraries
+         4. CI/CD pipeline setup
+         5. dynamic slaves provisioning using Kubernetes/docker
