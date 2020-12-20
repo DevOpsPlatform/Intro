@@ -86,9 +86,14 @@
 # Terraform course
 
       Introduction to terraform
+      Installation
+      Providers
       Command overview
       Terraform basics
-      resources
+      Resources
       Variables and Modules
       Terraform with AWS
+         Create Multiple resouces ec2, s3, iam , lb, asg
+         Create networking resouces like vpc, subnet..etc
+         Create server less resouces like lamda, api Gateway
       Advance terraform Usages
