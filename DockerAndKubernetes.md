@@ -77,8 +77,8 @@
              Dynamic Volumes
              Config Maps & Secrets
       •	HPA & Metrics Server
-      •   Sealed secret
-      •   pod template/container template concept
+      •  Sealed secret
+      •  pod template/container template concept
       •	Kubernetes Cluster Setup In AWS Using KOPS
       •	EKS Kubernetes Cluster Setup Using Terraform
       •	Load balancer,clusterIP and node port Service( Service Types)
