@@ -64,18 +64,18 @@
       •	Kubernetes Cluster(Self-Managed) Setup Using Kubeadm
       •	Kubernetes Namespace
       •	Kubernetes Objects 
-             POD 
-             Replication Controller 
-             Replica Set
-             Daemon Set
-             Deployment Rolling Update Recreate
-             Stateful Set
-             Service
-             Volumes
-             Persistent Volume
-             Persistent Volume Claim 
-             Dynamic Volumes
-             Config Maps & Secrets
+          POD 
+          Replication Controller 
+          Replica Set
+          Daemon Set
+          Deployment Rolling Update Recreate
+          Stateful Set
+          Service
+          Volumes
+          Persistent Volume
+          Persistent Volume Claim 
+          Dynamic Volumes
+          Config Maps & Secrets
       •	HPA & Metrics Server
       •  Sealed secret
       •  pod template/container template concept
@@ -87,7 +87,7 @@
       •	Kubernetes RBAC
       •	Kubernetes & Jenkins Integration
       •	Kubernetes Dashboard Setup
-      
+
 
 # Terraform course
 
