@@ -2,7 +2,7 @@
 
 # Docker Course
 
-### About docker
+###### About docker
 
     * Why Dcoker?
     
@@ -16,13 +16,13 @@
     
     * Docker volumes
 
-### Docker commands & examples
+###### Docker commands & examples
 
     * Docker commands
     
     * Practice on Docker images for jenkins, sonar, nexus, nexus, nginx, selenium etc
 
-### Docker Hub
+###### Docker Hub
 
     * Docker repository on docker hub
     
@@ -32,7 +32,7 @@
     
     * Docker private registry setup using Nexus
 
-### Example on Jenkins + Github + Maven + Nexus + Docker
+###### Example on Jenkins + Github + Maven + Nexus + Docker
 
 # Kubernetes(k8s) course
 
@@ -88,7 +88,6 @@
       •	Kubernetes RBAC
       •	Kubernetes & Jenkins Integration
       •	Kubernetes Dashboard Setup
-
 
 # Terraform course
 
