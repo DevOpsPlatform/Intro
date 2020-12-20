@@ -83,3 +83,12 @@
       •	Kubernetes Dashboard Setup
       
 
+# Terraform course
+
+      Introduction to terraform
+      Command overview
+      Terraform basics
+      resources
+      Variables and Modules
+      Terraform with AWS
+      Advance terraform Usages
