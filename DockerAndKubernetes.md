@@ -36,29 +36,30 @@
 
 # Kubernetes(k8s) course
 
-### 1. Why k8s.
+###### 1. About Kubernets
 
-### 2. Docker Swarm vs k8s.
+      * Why k8s.
 
-### 3. k8s archetecture & components
+      * Docker Swarm vs k8s.
 
-    * Master
+      * k8s archetecture & components
+
+         * Master
+
+         * Node
+
+         * Pod
     
-    * Node
+###### 2. Single-node cluster - minikube
+
+###### 3. Multi-node cluster  - kubeadm/kops
+
+###### 4. kubectl commands & examples
+
+###### 5. Kubernetes Storage
+
+###### 6. Examples on Jenkins + Github + maven + nexus + docker + k8s
     
-    * Pod
-    
-### 4. Single-node cluster - minikube
-
-### 5. Multi-node cluster  - kubeadm/kops
-
-### 6. kubectl commands & examples
-
-### 7. Kubernetes Storage
-
-### 8. Examples on Jenkins + Github + maven + nexus + docker + k8s
-    
-
 ### other topics
 
       •	Kubernetes Cluster(Self-Managed) Setup Using Kubeadm
@@ -77,8 +78,8 @@
           Dynamic Volumes
           Config Maps & Secrets
       •	HPA & Metrics Server
-      •  Sealed secret
-      •  pod template/container template concept
+      •	Sealed secret
+      •	pod template/container template concept
       •	Kubernetes Cluster Setup In AWS Using KOPS
       •	EKS Kubernetes Cluster Setup Using Terraform
       •	Load balancer,clusterIP and node port Service( Service Types)
