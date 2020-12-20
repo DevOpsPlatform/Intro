@@ -2,9 +2,6 @@
 
 # Docker Course
 
-![image](https://user-images.githubusercontent.com/24622526/48014891-af06f400-e14d-11e8-8742-9047e011b4af.png)
-
-
 ### About docker
 
     * Why Dcoker?
@@ -38,9 +35,6 @@
 ### Example on Jenkins + Github + Maven + Nexus + Docker
 
 # Kubernetes(k8s) course
-
-![image](https://user-images.githubusercontent.com/24622526/48015484-4456b800-e14f-11e8-876a-498cd73db5c1.png)
-
 
 ### 1. Why k8s.
 
