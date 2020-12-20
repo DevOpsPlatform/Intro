@@ -63,7 +63,19 @@
 
       •	Kubernetes Cluster(Self-Managed) Setup Using Kubeadm
       •	Kubernetes Namespace
-      •	Kubernetes Objects o POD o Replication Controller o Replica Set o Daemon Set o Deployment Rolling Update Recreate o Stateful Set o Service o Volumes o Persistent Volume o Persistent Volume Claim o Dynamic Volumes o Config Maps & Secrets
+      •	Kubernetes Objects 
+             POD 
+             Replication Controller 
+             Replica Set
+             Daemon Set
+             Deployment Rolling Update Recreate
+             Stateful Set
+             Service
+             Volumes
+             Persistent Volume
+             Persistent Volume Claim 
+             Dynamic Volumes
+             Config Maps & Secrets
       •	HPA & Metrics Server
       •   Sealed secret
       •   pod template/container template concept
