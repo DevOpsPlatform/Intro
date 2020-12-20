@@ -100,9 +100,9 @@
       •	Data sources
       •	Variables and Modules
       •	Terraform with AWS
-            •	Create Multiple resouces ec2, s3, iam , lb, asg
-            •	Create networking resouces like vpc, subnet..etc
-            •	Create server less resouces like lambda, api Gateway
+               •	Create Multiple resouces ec2, s3, iam , lb, asg
+               •	Create networking resouces like vpc, subnet..etc
+               •	Create server less resouces like lambda, api Gateway
       •	Advance terraform Usages
       
  # Jenkins pipeline script
