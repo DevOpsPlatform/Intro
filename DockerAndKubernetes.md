@@ -1,4 +1,4 @@
-**We are conducting online sessions( 45 hrs) on Docker,Kubernetes,terraform and Jenkins pipeline script. Please find the course details below.**
+**We are conducting online sessions(45 hrs) on Docker, Kubernetes, Terraform and Jenkins pipeline script. Please find the course details below.**
 
 # Docker Course
 
@@ -108,8 +108,8 @@
       
  # Jenkins pipeline script
    
-         1. declarative 
-         2. scripted
-         3. shared libraries
+         1. Declarative 
+         2. Scripted
+         3. Shared libraries
          4. CI/CD pipeline setup
-         5. dynamic slaves provisioning using Kubernetes/docker
+         5. Dynamic slaves provisioning using Kubernetes/docker
