@@ -97,6 +97,7 @@
       Command overview
       Terraform basics
       Resources
+      Data sources
       Variables and Modules
       Terraform with AWS
          Create Multiple resouces ec2, s3, iam , lb, asg
