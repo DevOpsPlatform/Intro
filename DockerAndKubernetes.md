@@ -91,24 +91,24 @@
 
 # Terraform course
 
-      Introduction to terraform
-      Installation
-      Providers
-      Command overview
-      Terraform basics
-      Resources
-      Data sources
-      Variables and Modules
-      Terraform with AWS
-         Create Multiple resouces ec2, s3, iam , lb, asg
-         Create networking resouces like vpc, subnet..etc
-         Create server less resouces like lambda, api Gateway
-      Advance terraform Usages
+      •	Introduction to terraform
+      •	Installation
+      •	Providers
+      •	Command overview
+      •	Terraform basics
+      •	Resources
+      •	Data sources
+      •	Variables and Modules
+      •	Terraform with AWS
+         •	Create Multiple resouces ec2, s3, iam , lb, asg
+         •	Create networking resouces like vpc, subnet..etc
+         •	Create server less resouces like lambda, api Gateway
+      •	Advance terraform Usages
       
  # Jenkins pipeline script
    
-         1. Declarative 
-         2. Scripted
-         3. Shared libraries
-         4. CI/CD pipeline setup
-         5. Dynamic slaves provisioning using Kubernetes/docker
+      •	Declarative 
+      •	Scripted
+      •	Shared libraries
+      •	CI/CD pipeline setup
+      •	Dynamic slaves provisioning using Kubernetes/docker
