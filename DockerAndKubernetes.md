@@ -67,20 +67,20 @@
 
 ### other topics
 
-•	Kubernetes Cluster(Self-Managed) Setup Using Kubeadm
-•	Kubernetes Namespace
-•	Kubernetes Objects o POD o Replication Controller o Replica Set o Daemon Set o Deployment Rolling Update Recreate o Stateful Set o Service o Volumes o Persistent Volume o Persistent Volume Claim o Dynamic Volumes o Config Maps & Secrets
-•	HPA & Metrics Server
-•   Sealed secret
-•   pod template/container template concept
-•	Kubernetes Cluster Setup In AWS Using KOPS
-•	EKS Kubernetes Cluster Setup Using Terraform
-•	Load balancer,clusterIP and node port Service( Service Types)
-•	Ingress Controller & Resource
-•	Liveness & Readiness probes
-•	Kubernetes RBAC
-•	Kubernetes & Jenkins Integration
-•	Kubernetes Dashboard Setup
-•	Helm
-•	Monitor Kubernetes Using Prometheus And Grafana.
+      •	Kubernetes Cluster(Self-Managed) Setup Using Kubeadm
+      •	Kubernetes Namespace
+      •	Kubernetes Objects o POD o Replication Controller o Replica Set o Daemon Set o Deployment Rolling Update Recreate o Stateful Set o Service o Volumes o Persistent Volume o Persistent Volume Claim o Dynamic Volumes o Config Maps & Secrets
+      •	HPA & Metrics Server
+      •   Sealed secret
+      •   pod template/container template concept
+      •	Kubernetes Cluster Setup In AWS Using KOPS
+      •	EKS Kubernetes Cluster Setup Using Terraform
+      •	Load balancer,clusterIP and node port Service( Service Types)
+      •	Ingress Controller & Resource
+      •	Liveness & Readiness probes
+      •	Kubernetes RBAC
+      •	Kubernetes & Jenkins Integration
+      •	Kubernetes Dashboard Setup
+      •	Helm
+      •	Monitor Kubernetes Using Prometheus And Grafana.
 
