@@ -1,4 +1,4 @@
-**We are conducting online sessions(10 hrs) on Docker and Kubernetes which will be useful to beginners. Please find the course details below.**
+**We are conducting online sessions( 45 hrs) on Docker,Kubernetes,terraform and Jenkins pipeline script. Please find the course details below.**
 
 # Docker Course
 
