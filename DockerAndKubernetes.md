@@ -81,6 +81,5 @@
       •	Kubernetes RBAC
       •	Kubernetes & Jenkins Integration
       •	Kubernetes Dashboard Setup
-      •	Helm
-      •	Monitor Kubernetes Using Prometheus And Grafana.
+      
 
