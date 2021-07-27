@@ -1,3 +1,4 @@
 # Intro
 
-![image](https://user-images.githubusercontent.com/24622526/43326308-1ed69924-91d6-11e8-824f-fa85e1af6042.png)
+
+![image](https://user-images.githubusercontent.com/24622526/127086601-9a43f23b-2285-4bf9-86d4-66dbe1d6d6ae.png)
