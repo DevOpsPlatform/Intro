@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheets/d/1qN9TlmYgFrIB0KIMV4PoS4_C6O4gtk5-kUnIDDlB
 	Issue/Project Management Tool: JIRA
 	Cloud: AWS
 	Test Automation: Selenium
-	User/Group Manager: LDAP	
+	User/Group Manager: LDAP
 
 #### 2. Tools installation on Linux machines & Integration between the tools. 
 
